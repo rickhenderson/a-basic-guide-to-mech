@@ -24,3 +24,5 @@ Note: Due to current uncertainty in the crypto markets, Land during the Dec 2022
 * Small: Rent & Replicate
 * Medium: Shops and Single-player games
 * Large: Multiplayer games and more
+
+<img src="img/land_info.png">
