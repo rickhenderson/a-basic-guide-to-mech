@@ -1,7 +1,9 @@
 # A Basic Guide to Mech
 
 Collection of info and FAQs for Web3 game at Mech.com
+
 Details here are copyright Mech.com and the respective owners.
+
 This site is contributed as a way to help others.
 
 # Land Ownership
