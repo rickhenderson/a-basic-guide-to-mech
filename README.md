@@ -1,6 +1,8 @@
 # A Basic Guide to Mech
 
 Collection of info and FAQs for Web3 game at Mech.com
+Details here are copyright Mech.com and the respective owners.
+This site is contributed as a way to help others.
 
 # Land Ownership
 
@@ -14,3 +16,9 @@ Note: Due to current uncertainty in the crypto markets, Land during the Dec 2022
 * Small: $500 USD. Small land can hold a garage, but not a shop.
 * Medium: $1000 USD.
 * Large: $1500 USD. 
+
+## Activities and Economy
+
+* Small: Rent & Replicate
+* Medium: Shops and Single-player games
+* Large: Multiplayer games and more
